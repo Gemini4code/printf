@@ -10,7 +10,7 @@
 
 ## Files
 
-- All the following files are C source code files written
+- All the following files are C source code files
 
 | Filename | Description                                                                                                                                          |
 | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
